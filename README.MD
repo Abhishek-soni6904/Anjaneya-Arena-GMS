@@ -88,6 +88,42 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 
 ---
 
+## Database Schema🗂️
+
+### Tables
+
+#### `members`
+Stores member details:
+- `id` (INT, Primary Key, Auto Increment)
+- `name` (VARCHAR)
+- `membership_type` (ENUM: Basic, Premium, Elite, Ultimate, Expired)
+- `email` (VARCHAR, Unique)
+- `password` (VARCHAR)
+- `join_date` (DATE, Default: Current Date)
+- `expiration_date` (DATE, Nullable)
+
+#### `announcements`
+Stores announcements:
+- `id` (INT, Primary Key, Auto Increment)
+- `title` (VARCHAR)
+- `category` (ENUM: Event, Equipment Update, Health and Safety, Notice, Achievement)
+- `content` (TEXT)
+- `created_at` (TIMESTAMP, Default: Current Timestamp)
+
+#### `payments`
+Stores transaction details:
+- `id` (INT, Primary Key, Auto Increment)
+- `memberId` (INT, Foreign Key References `members(id)`, On Delete Cascade)
+- `action` (VARCHAR)
+- `duration` (INT)
+- `new` (VARCHAR)
+- `changedFrom` (VARCHAR, Nullable)
+- `payMode` (VARCHAR)
+- `Total` (DECIMAL(10,2))
+- `payDate` (TIMESTAMP, Default: Current Timestamp)
+
+---
+
 ## Technologies Used🛠️
 
 ### Frontend🎨
