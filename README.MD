@@ -31,7 +31,7 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 - **Announcements**: Create, edit, and delete announcements for gym events, updates, and notices.
 - **Transaction History**: View all transactions with details like payment mode, membership changes, and total amount.
 
-### Member Features🏃‍♂️
+### Member Features 🏃‍♂️
 - **Profile Management**: View and update personal details like name, email, and password.
 - **Membership Management**: Upgrade or extend memberships with various payment options.
 - **Transaction History**: View personal transaction history.
