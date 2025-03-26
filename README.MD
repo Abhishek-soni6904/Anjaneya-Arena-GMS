@@ -9,7 +9,7 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 ## Table of Contents
 - [Features](#features)
   - [Admin Features](#admin-features)
-  - [Member Features](#member-features)
+  - [Member Features](#member-features-)
   - [General Features](#general-features)
 - [Installation](#installation)
 - [Usage](#usage)
