@@ -61,6 +61,8 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 4. **Access the application:**
    - Open your browser and navigate to `http://localhost/anjaneya_arena`.
 
+5. **Automatic Membership Expiration:**
+   - Automatic Membership Expiration: If a membership expires, it is automatically updated to "expired" using MySQL events. If your hosting provider does not support events, uncomment the second line in manageMember.php to include require/cron.php. 
 ---
 
 ## Usage🛠️
