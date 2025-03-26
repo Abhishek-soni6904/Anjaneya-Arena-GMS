@@ -8,18 +8,18 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 
 ## Table of Contents
 - [Features](#features-)
-  - [Admin Features](#admin-features)
-  - [Member Features](#member-features)
-  - [General Features](#general-features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Admin Login](#admin-login)
-  - [Member Registration](#member-registration)
-- [Database Schema](#database-schema)
-- [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
-- [Project Structure](#project-structure)
-- [Contact](#contact)
+  - [Admin Features](#admin-features-)
+  - [Member Features](#member-features-)
+  - [General Features](#general-features-)
+- [Installation](#installation-)
+- [Usage](#usage-)
+  - [Admin Login](#admin-login-)
+  - [Member Registration](#member-registration-)
+- [Database Schema](#database-schema-)
+- [Technologies Used](#technologies-used-)
+- [Screenshots](#screenshots-)
+- [Project Structure](#project-structure-)
+- [Contact](#contact=)
 
 ---
 
@@ -112,7 +112,7 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 ### Home Page 🏠
 ![Home Page](screenshots/home.png)
 
-### Login Page📊
+### Login Page 🔐
 ![Login Page](screenshots/login.png)
 
 ### Admin Dashboard 📊
