@@ -7,43 +7,43 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 🔗 **LinkedIn Post**: [Check out the project on LinkedIn](#)
 
 ## Table of Contents
-- [Features](#features-)
-  - [Admin Features](#admin-features-)
-  - [Member Features](#member-features-)
-  - [General Features](#general-features-)
-- [Installation](#installation-)
-- [Usage](#usage-)
-  - [Admin Login](#admin-login-)
-  - [Member Registration](#member-registration-)
-- [Database Schema](#database-schema-)
-- [Technologies Used](#technologies-used-)
-- [Screenshots](#screenshots-)
-- [Project Structure](#project-structure-)
-- [Contact](#contact=)
+- [Features](#features)
+  - [Admin Features](#admin-features)
+  - [Member Features](#member-features)
+  - [General Features](#general-features)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Admin Login](#admin-login)
+  - [Member Registration](#member-registration)
+- [Database Schema](#database-schema)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Project Structure](#project-structure)
+- [Contact](#contact)
 
 ---
 
-## Features ✨
+## Features✨
 
-### Admin Features 🏢
+### Admin Features🏢
 - **Dashboard**: View total members, active memberships, expired memberships, and recent transactions.
 - **Manage Members**: Add, edit, and delete member details, including membership type and expiration date.
 - **Announcements**: Create, edit, and delete announcements for gym events, updates, and notices.
 - **Transaction History**: View all transactions with details like payment mode, membership changes, and total amount.
 
-### Member Features 🏃‍♂️
+### Member Features🏃‍♂️
 - **Profile Management**: View and update personal details like name, email, and password.
 - **Membership Management**: Upgrade or extend memberships with various payment options.
 - **Transaction History**: View personal transaction history.
 
-### General Features 🌎
+### General Features🌎
 - **Authentication**: Secure login and registration for both members and admins.
 - **Responsive Design**: Fully responsive UI for seamless use across devices.
 - **DataTables Integration**: Interactive tables for managing members and transactions.
 
 ---
 
-## Installation ⚙️
+## Installation⚙️
 
 1. **Clone the repository:**
    ```bash
@@ -63,21 +63,21 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 
 ---
 
-## Usage 🛠️
+## Usage🛠️
 
-### Admin Login 🔑
+### Admin Login🔑
 1. Navigate to the login page (`login.php`).
 2. Use the admin credentials (`admin/admin`) to log in.
 3. Access the admin dashboard to manage members, announcements, and transactions.
 
-### Member Registration 📝
+### Member Registration📝
 1. Navigate to the login page (`login.php`).
 2. Switch to the registration tab and fill in the required details.
 3. Log in with the registered credentials to access the profile and membership features.
 
 ---
 
-## Database Schema 🗂️
+## Database Schema🗂️
 
 ### Tables
 - **`members`**: Stores member details like name, email, membership type, and expiration date.
@@ -86,28 +86,28 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 
 ---
 
-## Technologies Used 🛠️
+## Technologies Used🛠️
 
-### Frontend 🎨
+### Frontend🎨
 - HTML
 - CSS
 - JavaScript
 - DataTables
 
-### Backend 🖥️
+### Backend🖥️
 - PHP
 
-### Database 🗄️
+### Database🗄️
 - MySQL
 
-### Libraries 📚
+### Libraries📚
 - Font Awesome (Icons)
 - jQuery (DOM manipulation)
 - DataTables (Interactive tables)
 
 ---
 
-## Screenshots 📸
+## Screenshots📸
 
 ### Home Page 🏠
 ![Home Page](screenshots/home.png)
@@ -132,7 +132,7 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 
 ---
 
-## Project Structure 📂
+## Project Structure📂
 
 ```
 Anjaneya_Arena/
@@ -182,7 +182,7 @@ Anjaneya_Arena/
 
 ---
 
-## Contact 📩
+## Contact📩
 For any queries or support, feel free to reach out:
 - **👤 Name**: Abhishek Soni
 - **📧 Email**: abhisheksoni6904@gmail.com
