@@ -77,7 +77,7 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 2. Switch to the registration tab and fill in the required details.
 3. Log in with the registered credentials to access the profile and membership features.
 
-===
+---
 
 ## Database Schema🗂️
 
