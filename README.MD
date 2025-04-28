@@ -214,7 +214,7 @@ Anjaneya_Arena/
 ## Contact📩
 For any queries or support, feel free to reach out:
 - **👤 Name**: Abhishek Soni
-- **📧 Email**: abhisheksoni6904@gmail.com
+- **📧 Email**: abhisheksoni6904@outlook.com
 - **🔗 GitHub**: [Abhishek-soni6904](https://github.com/Abhishek-soni6904)
 - **📸 Instagram**: [\_abhishek.\_\.soni\_](https://www.instagram.com/_abhishek._.soni_/)
 - **💼 LinkedIn**: [Abhishek Soni](https://www.linkedin.com/in/abhishek-soni-662028331/)
