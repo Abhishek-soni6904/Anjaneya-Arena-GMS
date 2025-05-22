@@ -4,7 +4,7 @@ Anjaneya Arena is a web-based fitness center management system designed to strea
 
 🚀 **Live Demo**: [Anjaneya Arena](http://anjaneya-arena.devbyabhishek.infinityfreeapp.com/)
 
-🔗 **LinkedIn Post**: [Check out the project on LinkedIn](#)
+🔗 **LinkedIn Post**: [Check out the project on LinkedIn](https://www.linkedin.com/posts/abhishek-soni-662028331_finalyearproject-fitnesstech-webdevelopment-activity-7310599241117155328-mDna/)
 
 ## Table of Contents
 - [Features](#features)
